@@ -5,12 +5,12 @@ include_in_header: true
 ---
 
 # Changelog
-[English] Here you'll find the latest changes in the app.
-[Español] Aquí encontrarás las últimas novedades en la aplicación.
+[English] - Here you'll find the latest changes in the app. <br>
+[Español] - Aquí encontrarás las últimas novedades en la aplicación.
 
 <br>
 
-### `[English] Initial Release`
+### `[English] - Initial Release`
 # **Version 1.0.0**
 This is the first version to our app. MultiLens is the camera app you need if you want to shoot photos and record videos with multiple cameras. 
 You'll be able to use up to 3 cameras at the same time.
@@ -27,9 +27,7 @@ MultiLens supports:
 - Portrait and landscape. 
 - Photo layout edition. 
 
-<br>
-
-### `[Español] Versión inicial`
+### `[Español] - Versión inicial`
 # **Versión 1.0.0**
 Esta es la primera versión de nuestra aplicación. MultiLens es la aplicación que necesitas si quieres hacer fotos y grabar vídeos con múltiples cámaras
 Podrás utilizar hasta 3 cámaras de tu dispositivo a la vez.
@@ -37,12 +35,12 @@ Podrás utilizar hasta 3 cámaras de tu dispositivo a la vez.
 #### Qué es nuevo
 
 Además MultiLens dispone de diferentes layout dependiendo de las cámaras que utilices. 
-- Obtén un vídeo combinado con las grabaciones de las diferentes cámaras que utilices. 
-- Obtén una foto combinada y edítala desde la app cuando utilices múltiples cámaras. 
+- MultiLens creará un vídeo combinado con las grabaciones de las diferentes cámaras que utilices. 
+- MultiLens creará una foto combinada que podrás editar desde la aplicación cuando utilices múltiples cámaras. 
 
 MultiLens tiene: 
-- Capacidad para hacer Fotos & vídeos. 
-- Zoom individual en cada una de las cámaras que utilices en una foto o grabación.
+- Capacidad para hacer Fotos y vídeos. 
+- Zoom individual en cada una de las cámaras que utilices en una foto o vídeo.
 - Modo retrato y apaisado. 
 - Edición de photos.
 

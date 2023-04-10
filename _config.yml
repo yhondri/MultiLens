@@ -37,15 +37,15 @@ features                                  :
 
   - title                                 : Shot photos and record videos up to using 3 cameras
     description                           : MultiLens can shoot photos and record video combining front and back cameras. Yo can use up to 3 cameras  at the same time!
-    fontawesome_icon_name                 : fa-aperture
+    fontawesome_icon_name                 : aperture
     
   - title                                 : Multiple layouts
     description                           : MultiLens has different layouts depending on the cameras you are using.
-    fontawesome_icon_name                 : fa-table-layout
+    fontawesome_icon_name                 : table-layout
 
   - title                                 : MultiLens supports
     description                           : Photo & video mode. Individual zoom in every camera. Portrait and landscape. Photo layout edition. 
-    fontawesome_icon_name                 : fa-face-awesome
+    fontawesome_icon_name                 : face-awesome
 
 # Theme Settings
 topbar_color                              : "#000000"
